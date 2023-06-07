@@ -1,2 +1,2 @@
-cd $HOME  
-echo $PWD
+#!/bin/bash
+cd $HOME
